@@ -2,5 +2,8 @@
 
 Estos son los resultados que obtuve en el reto 2.
 
+<div align='center'>
+<figure> <img src="https://github.com/J0s3ph2705/repo1/blob/558c824a236a60852586941b4e914c574716a19b/image.png" alt="" width="1000" height="auto"/></br>
+</figure>
 
-<a href='https://postimg.cc/14jFr5cZ' target='_blank' height=´300%´ width=´300%´><img src='https://i.postimg.cc/14jFr5cZ/image.png' border='0' alt='image'/></a>
+</div> 
